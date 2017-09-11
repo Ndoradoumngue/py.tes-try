@@ -1,0 +1,8 @@
+{
+  "myApp/tests.py::test_full_name": true,
+  "myApp/tests.py::test_group_letter": true,
+  "myApp/tests.py::test_transactions[20-2-18]": true,
+  "myApp/tests.py::test_transactions[30-10-20]": true,
+  "setup.py": true,
+  "test_hello.py::test_greet": true
+}

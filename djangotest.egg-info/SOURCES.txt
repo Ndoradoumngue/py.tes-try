@@ -1,0 +1,8 @@
+djangotest/__init__.py
+djangotest/settings.py
+djangotest/urls.py
+djangotest/wsgi.py
+djangotest.egg-info/PKG-INFO
+djangotest.egg-info/SOURCES.txt
+djangotest.egg-info/dependency_links.txt
+djangotest.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+HelloWorld.egg-info/PKG-INFO
+HelloWorld.egg-info/SOURCES.txt
+HelloWorld.egg-info/dependency_links.txt
+HelloWorld.egg-info/top_level.txt
+djangotest/__init__.py
+djangotest/settings.py
+djangotest/urls.py
+djangotest/wsgi.py
